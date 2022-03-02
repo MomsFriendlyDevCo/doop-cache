@@ -1,4 +1,4 @@
-@doop/service-{{FIXME}}
+@doop/cache
 ==================
 
-A {{FIXME}} service for the [Doop framework](https://github.com/MomsFriendlyDevCo/Doop).
+A cache service for the [Doop framework](https://github.com/MomsFriendlyDevCo/Doop).
