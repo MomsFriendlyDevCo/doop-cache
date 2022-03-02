@@ -1,10 +1,10 @@
 {
-  "name": "@doop/service-{{FIXME}}",
+  "name": "@doop/cache",
   "version": "1.0.0",
-  "description": "A {{FIXME}} service for the Doop framework",
+  "description": "A cache service for the Doop framework",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MomsFriendlyDevCo/doop-service-{{FIXME}}.git"
+    "url": "git+https://github.com/MomsFriendlyDevCo/doop-cache.git"
   },
   "keywords": [
     "doop"
@@ -12,9 +12,15 @@
   "author": "Matt Carter <m@ttcarter.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MomsFriendlyDevCo/doop-service-{{FIXME}}/issues"
+    "url": "https://github.com/MomsFriendlyDevCo/doop-cache/issues"
   },
-  "homepage": "https://github.com/MomsFriendlyDevCo/doop-service-{{FIXME}}#readme",
+  "homepage": "https://github.com/MomsFriendlyDevCo/doop-cache#readme",
   "dependencies": {
+    "@momsfriendlydevco/cache": "^2.1.4",
+    "@momsfriendlydevco/express-middleware-cache": "^1.1.13",
+    "chalk": "^5.0.0",
+    "express-log-url": "^1.5.1",
+    "lodash": "^4.17.21",
+    "util": "^0.12.4"
   }
 }
