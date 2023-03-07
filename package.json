@@ -16,11 +16,11 @@
   },
   "homepage": "https://github.com/MomsFriendlyDevCo/doop-cache#readme",
   "dependencies": {
-    "@momsfriendlydevco/cache": "^2.1.4",
-    "@momsfriendlydevco/express-middleware-cache": "^1.1.13",
-    "chalk": "^5.0.0",
+    "@momsfriendlydevco/cache": "^2.2.0",
+    "@momsfriendlydevco/express-middleware-cache": "^1.1.14",
+    "chalk": "^5.2.0",
     "express-log-url": "^1.5.1",
     "lodash": "^4.17.21",
-    "util": "^0.12.4"
+    "util": "^0.12.5"
   }
 }
